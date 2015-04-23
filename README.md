@@ -1,4 +1,4 @@
-#USS-Ppip
+#SigSeekr
 Unique Strain-Specific Python Probe Identifying Program
 
 ##Requirements
